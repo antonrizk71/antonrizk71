@@ -5,8 +5,8 @@ I am a backend developer specializing in Laravel, focusing on building robust se
 📫 How to reach me:
 
 <a href="https://www.facebook.com/anton.rizk.16"><img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook"/></a>
-<a href="your_twitter_link"><img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter"/></a>
-<a href="your_youtube_link"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube"/></a>
+<a href="https://wa.me/01222561380"><img src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="WhatsApp"/></a>
+<a href="https://www.linkedin.com/in/anton-rizk-243165297?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
 
 
 
