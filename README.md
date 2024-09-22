@@ -1,7 +1,12 @@
 ## Hi there 👋
 
+I am backend developer specializing in Laravel, focusing on building robust server-side applications and managing databases efficiently. I work on tasks like creating and validating models, managing relationships between entities, handling middleware, and developing features that may or may not rely on JavaScript, depending on the project's requirements. I also have experience with Laravel Breeze, Blade templates, and other Laravel features, ensuring smooth functionality and secure, well-structured applications.
+📫 How to reach me:
+
+
 <!--
 **antonrizk71/antonrizk71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
