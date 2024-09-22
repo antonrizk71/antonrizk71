@@ -4,10 +4,9 @@ I am a backend developer specializing in Laravel, focusing on building robust se
 
 📫 How to reach me:
 
-[Facebook](https://www.facebook.com/anton.rizk.16) <i class="fa-brands fa-facebook-f"></i>  
-[Twitter](your_twitter_link) <i class="fa-brands fa-twitter"></i>  
-[YouTube](your_youtube_link) <i class="fa-brands fa-youtube"></i>  
-****
+<a href="[your_facebook_link](https://www.facebook.com/anton.rizk.16)" target="_blank"><i class="fa-brands fa-facebook-f"></i> Facebook</a>  
+<a href="your_twitter_link" target="_blank"><i class="fa-brands fa-twitter"></i> Twitter</a>  
+<a href="your_youtube_link" target="_blank"><i class="fa-brands fa-youtube"></i> YouTube</a>  
 
 
 <!--
