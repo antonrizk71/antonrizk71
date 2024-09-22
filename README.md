@@ -3,6 +3,10 @@
 I am backend developer specializing in Laravel, focusing on building robust server-side applications and managing databases efficiently. I work on tasks like creating and validating models, managing relationships between entities, handling middleware, and developing features that may or may not rely on JavaScript, depending on the project's requirements. I also have experience with Laravel Breeze, Blade templates, and other Laravel features, ensuring smooth functionality and secure, well-structured applications.
 <br>
 📫 How to reach me:
+<br>
+<a href="" class="facebook"><i class="fa-brands fa-facebook-f"></i></a>
+                    <a href="" class="twitter"><i class="fa-brands fa-twitter"></i></a>
+                    <a href="" class="youtube"><i class="fa-brands fa-youtube"></i></a>
 
 
 <!--
